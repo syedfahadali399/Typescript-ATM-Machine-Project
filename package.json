@@ -1,0 +1,15 @@
+{
+  "name": "atm-machine",
+  "version": "1.0.0",
+  "description": "This is a CLI Based ATM Machine!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
