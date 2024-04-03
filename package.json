@@ -1,6 +1,6 @@
 {
   "name": "fahad399-atm-machine",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "This is a CLI Based ATM Machine!",
   "main": "index.js",
   "type": "module",
